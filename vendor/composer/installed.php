@@ -5,18 +5,18 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'de7b33f154ea807c229190ca36d54c0e5e6267f9',
-        'name' => 'ph1w1asd23/t3',
+        'reference' => '1476318f84e33ac0ada00bbd6ffce3d3e8278b71',
+        'name' => 'bestjad222/phald2',
         'dev' => true,
     ),
     'versions' => array(
-        'ph1w1asd23/t3' => array(
+        'bestjad222/phald2' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'de7b33f154ea807c229190ca36d54c0e5e6267f9',
+            'reference' => '1476318f84e33ac0ada00bbd6ffce3d3e8278b71',
             'dev_requirement' => false,
         ),
     ),
