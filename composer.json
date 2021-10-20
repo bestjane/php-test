@@ -1,0 +1,20 @@
+{
+    "name": "ph/t3",
+    "description": "try make a package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Flower\\Rose\\": "src/Flower/Rose",
+            "Flower\\Lily\\": "src/Flower/Lily"
+        }
+    },
+    "authors": [
+        {
+            "name": "HuiZhang",
+            "email": "mr.bestjane@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
